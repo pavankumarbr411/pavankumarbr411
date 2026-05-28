@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pavankumar B R
 ## 💻 Technology Enthusiast | Aspiring Software Developer
- 🚀CSE Student | Passionate about Tech & Problem Solving<br>💻 Exploring Data Structures, Algorithms, and Backend Development<br>🛠️ Projects in Java | MySQL | Swing | Web Technologies<br>💻 AWS<br>📈 Learning daily, building better<br>🌱 Open to opportunities<br>📬 Let’s connect and grow together!<br><br>
+ 🚀CSE Student | Passionate about Tech & Problem Solving<br>💻 Exploring Data Structures, Algorithms, AI and Backend Development<br>🛠️ Projects in Java | MySQL | Swing | Web Technologies<br>💻 AWS<br>📈 Learning daily, building better<br>🌱 Open to opportunities<br>📬 Let’s connect and grow together!<br><br>
 
 
 ## 🌐 Socials:
